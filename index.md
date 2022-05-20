@@ -1,5 +1,11 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+
+# JJ Cheng
+
+🧑🏻‍💻 22 year-old software engineer.</br>
+✍🏻 Illustration Hobbyist.</br>
+☕ ️Coffee Addict.</br>
+
+Currently, I'm in Toronto 🇨🇦.
