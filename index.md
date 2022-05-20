@@ -6,7 +6,7 @@ layout: default
 
 ## This site is under construction
 
-Apologies for any weirdness.
+Apologies for any strangeness.
 
 🧑🏻‍💻 22 year-old software engineer.</br>
 ✍🏻 Illustration Hobbyist.</br>
