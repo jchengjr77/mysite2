@@ -4,12 +4,11 @@ layout: default
 
 # JJ Cheng
 
-## This site is under construction
-
-Apologies for any strangeness.
-
-🧑🏻‍💻 22 year-old software engineer.</br>
+🧑🏻‍💻 Software engineer.</br>
 ✍🏻 Illustration Hobbyist.</br>
 ☕ ️Coffee Addict.</br>
+
+[Linkedin](https://www.linkedin.com/in/jchengjr77) [Github](https://github.com/jchengjr77) [Instagram](https://instagram.com/jaiyyjaiyy)
+[Resume](/assets/resume.pdf)
 
 Currently, I'm in Toronto 🇨🇦.

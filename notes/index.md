@@ -1,5 +1,10 @@
 ---
-title: About these notes
+title: About My Ramblings
 ---
-# About these Notes
-These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[food]].
+# My Ramblings
+
+You may or may not find these interesting.</br>
+Expect content centered around illustration, muay thai/bjj, coffee, and DnD.
+
+[[23 May 2022: First Note]]</br>
+[[does it work?]]</br>
