@@ -7,7 +7,7 @@ title: About Me
 My name is JJ, and I am 22 years old!
 
 I love writing software. </br>
-In spring 2022, I graduated from CMU with University Honors, earning a B.S. in Electrical and Computer Engineering and a minor in Computer Science.
+In spring 2022, I graduated from Carnegie Mellon University (CMU) with University Honors, earning a B.S. in Electrical and Computer Engineering and a minor in Computer Science.
 I am also projected to graduate with an M.S. in Electrical and Computer Engineering during the spring of 2023.
 
 Illustration is my main hobby these days ([@jjchengart](https://twitter.com/jjchengart) IG + Twitter).</br>
@@ -19,7 +19,7 @@ I particularly enjoy the light, fruity roasts that come out of my Aeropress.
 
 As of Spring 2022, I am a local member of [$FWB](https://fwb.help).
 
-I grew up in Hong Kong, went to Groton School from grades 10-12, and then studied at Carnegie Mellon University (CMU).
+I grew up in Hong Kong where I attended Chinese International School. Then, I transferred to Groton School in Massachusetts from grades 10-12, and then studied at CMU.
 
 Other bits of life I enjoy include: Tom Misch's music, playing guitar/bass/ukulele, snowboarding, the ocean, discovering new coffee shops and bars, Critical Role, Valorant, and much much more.
 
