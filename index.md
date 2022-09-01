@@ -11,4 +11,4 @@ layout: default
 [Linkedin](https://www.linkedin.com/in/jchengjr77) [Github](https://github.com/jchengjr77) [Instagram](https://instagram.com/jaiyyjaiyy)
 [Resume](/assets/resume.pdf)
 
-Currently, I'm in Toronto 🇨🇦.
+Currently, I'm in Pittsburgh 🇺🇸.
