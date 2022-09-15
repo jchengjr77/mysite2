@@ -8,7 +8,7 @@ layout: default
 ✍🏻 Illustration Hobbyist.</br>
 ☕ ️Coffee Addict.</br>
 
-[Linkedin](https://www.linkedin.com/in/jchengjr77) [Github](https://github.com/jchengjr77) [Instagram](https://instagram.com/jaiyyjaiyy)
+[Linkedin](https://www.linkedin.com/in/jchengjr77) [Github](https://github.com/jchengjr77) [Youtube](https://www.youtube.com/channel/UCup1DEEy4xC6wqoiCwqqV3g) [Instagram](https://instagram.com/jaiyyjaiyy)
 [Resume](/assets/resume.pdf)
 
 Currently, I'm in Pittsburgh 🇺🇸.

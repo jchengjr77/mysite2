@@ -10,7 +10,7 @@ I love writing software. </br>
 In spring 2022, I graduated from Carnegie Mellon University (CMU) with University Honors, earning a B.S. in Electrical and Computer Engineering and a minor in Computer Science.
 I am also projected to graduate with an M.S. in Electrical and Computer Engineering during the spring of 2023.
 
-Illustration is my main hobby these days ([@jjchengart](https://twitter.com/jjchengart) IG + Twitter).</br>
+Illustration is my main hobby these days (@jjchengart on [Youtube](https://www.youtube.com/channel/UCup1DEEy4xC6wqoiCwqqV3g) + [IG](https://www.instagram.com/jjchengart/) + [Twitter](https://twitter.com/jjchengart)).</br>
 In my spare time, I train Muay Thai, Brazilian Jiu Jitsu, and general fitness.</br>
 I also have been running a DnD campaign for a group of nerds.
 
