@@ -13,4 +13,4 @@ layout: default
 
 [Buy Me a Coffee](https://www.buymeacoffee.com/jjchengart)
 
-Currently, I'm in Pittsburgh 🇺🇸.
+Currently, I'm in Hong Kong 🇭🇰.
